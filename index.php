@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <?php echo "Hellow world!!!" ?>
+    <?php echo "Hellow world!" ?>
 </body>
 </html>
